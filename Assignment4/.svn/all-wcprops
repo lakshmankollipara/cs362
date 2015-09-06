@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4
+END
+rngs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/rngs.h
+END
+randomtestadventurer.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/randomtestadventurer.c
+END
+dominion.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/dominion.h
+END
+rt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/rt.c
+END
+testDrawCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/testDrawCard.c
+END
+testBuyCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/testBuyCard.c
+END
+randomtestcard
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/randomtestcard
+END
+testShuffle.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/testShuffle.c
+END
+supplyTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/supplyTest.c
+END
+player.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/player.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/Makefile
+END
+betterTestDrawCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/betterTestDrawCard.c
+END
+badTestDrawCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/badTestDrawCard.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/interface.c
+END
+testInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/testInit.c
+END
+dominion_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/dominion_helpers.h
+END
+playdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/playdom.c
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/interface.h
+END
+testDrawCard
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/testDrawCard
+END
+rngs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/rngs.c
+END
+randomtestcard.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/randomtestcard.c
+END
+dominion.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/dominion.c
+END
+badTestDrawCard
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1150/trunk/project/christia/Assignment4/badTestDrawCard
+END

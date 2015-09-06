@@ -1,0 +1,25 @@
+Katherine Maack
+Bonnie Kwong
+Tracy Stinghen
+CS362 Fall 2014 Project Part A
+
+TestIsValid():
+	The TestIsValid() method, according to the Apache Commons
+	Source Code, functions to"Create set of tests by taking the 
+	testUrlXXX arrays and running through all possible permutations 
+	of their combinations." What this means is 
+
+Total # of Tested URLS: 
+	
+How are the URLs built: 
+	The URLs are built in sections with each section checked to ensure
+that it is valid for that part of the URL. The sections are then 
+amalgamated and 
+Example of a valid URL: 
+	https://www.google.com
+
+Example of an invalid URL: 
+	https://///www.google.com
+
+Differences between Real World Testing and our Tests: 
+	

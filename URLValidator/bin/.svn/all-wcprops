@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin
+END
+InetAddressValidator.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/InetAddressValidator.class
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/.classpath
+END
+DomainValidator.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/DomainValidator.class
+END
+RegexValidator.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/RegexValidator.class
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/.project
+END
+UrlsToVerify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/UrlsToVerify.txt
+END
+UrlValidator.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/UrlValidator.class
+END
+UrlValidatorTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/UrlValidatorTest.class
+END
+ResultPair.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/bin/ResultPair.class
+END

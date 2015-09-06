@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1150/trunk/project/christia/dominion
+END
+dominion.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/980/trunk/project/christia/dominion/dominion.c
+END
+rngs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/project/christia/dominion/rngs.h
+END
+dominion.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1150/trunk/project/christia/dominion/dominion.gcno
+END
+dominion.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1150/trunk/project/christia/dominion/dominion.h
+END
+rt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/project/christia/dominion/rt.c
+END
+rngs.o
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1150/trunk/project/christia/dominion/rngs.o
+END
+rngs.gcda
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/project/christia/dominion/rngs.gcda
+END
+testDrawCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/project/christia/dominion/testDrawCard.c
+END
+dominion.o
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1150/trunk/project/christia/dominion/dominion.o
+END
+testShuffle.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/project/christia/dominion/testShuffle.c
+END
+betterTestDrawCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/project/christia/dominion/betterTestDrawCard.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/project/christia/dominion/interface.c
+END
+dominion_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/project/christia/dominion/dominion_helpers.h
+END
+testInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/project/christia/dominion/testInit.c
+END
+testDrawCard.gcda
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/project/christia/dominion/testDrawCard.gcda
+END
+interface.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1150/trunk/project/christia/dominion/interface.gcno
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/project/christia/dominion/interface.h
+END
+playdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/project/christia/dominion/playdom.c
+END
+interface.o
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1150/trunk/project/christia/dominion/interface.o
+END
+rngs.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1150/trunk/project/christia/dominion/rngs.gcno
+END
+dominion.gcda
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/project/christia/dominion/dominion.gcda
+END
+testBuyCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/project/christia/dominion/testBuyCard.c
+END
+testDrawCard.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1150/trunk/project/christia/dominion/testDrawCard.gcno
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/project/christia/dominion/Makefile
+END
+player.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/project/christia/dominion/player.c
+END
+supplyTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/project/christia/dominion/supplyTest.c
+END
+badTestDrawCard.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/project/christia/dominion/badTestDrawCard.c
+END
+player.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1150/trunk/project/christia/dominion/player.gcno
+END
+badTestDrawCard.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1150/trunk/project/christia/dominion/badTestDrawCard.gcno
+END
+rngs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/project/christia/dominion/rngs.c
+END
+playdom.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1150/trunk/project/christia/dominion/playdom.gcno
+END

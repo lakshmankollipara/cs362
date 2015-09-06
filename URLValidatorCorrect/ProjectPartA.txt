@@ -1,0 +1,20 @@
+Project Part A
+--------------
+
+Sam Cantrell
+
+
+To determine the number of URLs tested, we first start with two URLs tested right near the beginning of the
+method. Then, using five component parts of a URL, it generates all possible combinations, and tries them all.
+I calculated this as 35,910, giving a total of 35,912 URLs tested. It is building all the URLs by looping through
+each potential component and adding it to a buffer, which is then passed to the isValid method when built for
+testing.
+
+An example of a valid URL is http://go.com:80/test1   --- an example of an invalid URL is http/go.a1a:80/..
+
+As to whether real-world tests are much different than the tests we wrote for dominion, I would hypothesize not.
+Particularly if we're practicing test-driven development, the tests we write would need to cover core functionality
+of the code in question, which both the dominion tests and URLValidator tests did. We're not just writing tests to
+be writing more tests. In particular, both the URLValidator and dominion tests checked for results; did the results
+match what were expected? (In the case of URLValidator, did we get the expected result for a given URL, and for
+dominion, did the card have the desired effect.)

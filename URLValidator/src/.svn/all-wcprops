@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src
+END
+UrlValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/UrlValidatorTest.java
+END
+UrlValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/UrlValidator.java
+END
+ResultPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/ResultPair.java
+END
+InetAddressValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/InetAddressValidator.java
+END
+UrlsToVerify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/UrlsToVerify.txt
+END
+DomainValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/DomainValidator.java
+END
+RegexValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/804/trunk/project/christia/URLValidator/src/RegexValidator.java
+END
